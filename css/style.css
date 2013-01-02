@@ -1,0 +1,175 @@
+/*================================================================================================= RESET */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	vertical-align: baseline;
+}
+
+body {
+	background: #fff;
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+caption, th, td {
+	font-weight: normal;
+	text-align: left;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+
+blockquote, q {
+	quotes: "" "";
+}
+
+a img {
+	border: 0;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+/*================================================================================================= COMMON */
+
+.clear {
+	clear: both;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.thumbnail {
+	padding: 4px;
+	border: 1px solid #ddd;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+strong {
+	font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}
+
+/*================================================================================================= GLOBAL */
+
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333;
+	background-color: #fff;
+}
+
+a {
+	text-decoration: none;
+	color: #1982d1;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active, a:visited {
+	color: #11609d;
+}
+
+/*================================================================================================= STRUCTURE */
+
+
+
+/*================================================================================================= SECTION */
+
+
+
+/*================================================================================================= SECTION */
+
+
+
+/*================================================================================================= SECTION */
+
+
+
+/*================================================================================================= SECTION */
+
+
+
+/*================================================================================================= SECTION */
+
+
+
+/*================================================================================================= SECTION */
+
+
+
+/*================================================================================================= SECTION */
+
+
+
+/*================================================================================================= MEDIA QUERIES */
+
+@media (max-width: 480px) {
+
+
+
+}
+
+@media (max-width: 767px) {
+
+
+
+}
+
+@media (max-width: 979px) {
+
+
+
+}
+
+@media (min-width: 980px) {
+
+
+
+}
+
+@media (min-width: 1200px) {
+
+
+
+}
+
+/*================================================================================================= END */
