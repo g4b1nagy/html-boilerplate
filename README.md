@@ -6,7 +6,7 @@ HTML5 CSS3 valid boilerplate
 Includes:
 
 * basic file structure
-* basic CSS reset
+* Bootstrap / basic CSS reset
 * jQuery
 
 Why? Because nobody should have to write this stuff.  
