@@ -3,23 +3,24 @@
  * ======================================================================== */
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 13px;
-  color: #333;
-  background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #333;
+    background-color: #fff;
 }
 
 a {
-  text-decoration: none;
-  color: #1982d1;
+    text-decoration: none;
+    color: #1982d1;
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
-a:active, a:visited {
-  color: #11609d;
+a:active,
+a:visited {
+    color: #11609d;
 }
 
 /* ========================================================================
@@ -27,23 +28,23 @@ a:active, a:visited {
  * ======================================================================== */
 
 .pull-left {
-  float: left;
+    float: left;
 }
 
 .pull-right {
-  float: right;
+    float: right;
 }
 
 .clearfix {
-  clear: both;
+    clear: both;
 }
 
 strong {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 em {
-  font-style: italic;
+    font-style: italic;
 }
 
 /* ========================================================================
@@ -51,30 +52,30 @@ em {
  * ======================================================================== */
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  /* margin-bottom by footer height */
-  margin-bottom: 60px;
+    /* margin-bottom by footer height */
+    margin-bottom: 60px;
 }
 
 body > .container {
-  padding: 60px 15px 0;
+    padding: 60px 15px 0;
 }
 
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  /* footer height */
-  height: 60px;
-  background-color: #f5f5f5;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* footer height */
+    height: 60px;
+    background-color: #f5f5f5;
 }
 
 .footer p {
-  margin: 20px 0;
+    margin: 20px 0;
 }
 
 /* ========================================================================
